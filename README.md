@@ -8,4 +8,4 @@ Simple Chat App made with Firebase
 4. We'll review your codebase, if it's good it'll be merged
 5. Happy contribute :smile:
 
-[Live demo](https://chatkuy-a882a.web.app/)
+### [Live demo](https://chatkuy-a882a.web.app/)
