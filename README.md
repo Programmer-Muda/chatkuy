@@ -1,4 +1,4 @@
-# chatkuy
+# W.I.P chatkuy
 Simple Chat App made with Firebase 
 
 ## How to contribute
