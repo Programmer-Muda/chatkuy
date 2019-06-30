@@ -1,0 +1,56 @@
+/* Reset */
+*, body{
+    margin: 0%;
+    padding: 0%;
+}
+.fullheight{
+    height: 100vh;
+}
+
+.centerize{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.gambar{
+    max-width: 90vh;
+}
+
+.baris{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.judul{
+    font-size: 72px;
+    font-family: 'Dancing Script', cursive;
+    color: #F9BE28;
+}
+
+.subjudul {
+    font-size: 48px;
+    font-family: 'Dancing Script', cursive;
+}
+
+.kolom{
+    flex: 1;
+}
+
+/* Helper */
+
+/* Padding */
+
+.p-1{
+    padding: 2em;
+}
+
+/* Mobile */
+
+@media only screen and (max-width : 768px){
+    .p-1{
+        padding: 0;
+    }
+}
